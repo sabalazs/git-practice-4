@@ -1,3 +1,3 @@
 function cheer(param) {
-  console.log('Hungarian' + param);
+  console.log('Cheer for the ' + param);
 }
