@@ -1,3 +1,3 @@
-function count(param1, param2) {
-  console.log(param1, param2);
+function count(param) {
+  console.log('Counting the countless ' + param);
 }
