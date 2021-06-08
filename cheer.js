@@ -1,3 +1,3 @@
-function cheer() {
-    console.log( 'git collaborators :)');
+function cheer(param) {
+    console.log( 'git collaborators :)' + param);
 }
