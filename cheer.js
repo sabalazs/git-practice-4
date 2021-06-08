@@ -1,3 +1,3 @@
-function cheer(param1, param2) {
-  console.log(param1 + param2);
+function cheer(param) {
+  console.log('Cheer for the ' + param);
 }
