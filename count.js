@@ -1,3 +1,3 @@
-function count() {
-  console.log('46');
+function count(param) {
+  console.log(param);
 }
