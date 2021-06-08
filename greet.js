@@ -1,3 +1,3 @@
 function greet() {
-    console.log('Greetings');
-};
+  console.log('parameter');
+}
